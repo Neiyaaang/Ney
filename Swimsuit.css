@@ -2313,9 +2313,9 @@ body
    position: absolute;
    text-align: left;
    left: 0px;
-   top: 30px;
+   top: 20px;
    width: 1265px;
-   height: 150px;
+   height: 173px;
    z-index: 62;
 }
 #wb_OverlayMenu3
@@ -2543,7 +2543,7 @@ body
 {
    position: absolute;
    left: 20px;
-   top: 59px;
+   top: 69px;
    width: 70px;
    height: 32px;
    visibility: hidden;
@@ -2616,7 +2616,7 @@ body
 {
    position: absolute;
    left: 20px;
-   top: 59px;
+   top: 69px;
    width: 70px;
    height: 32px;
    z-index: 24;
@@ -2853,7 +2853,7 @@ body
 {
    position: absolute;
    left: 1080px;
-   top: 50px;
+   top: 60px;
    width: 47px;
    height: 40px;
    text-align: center;
@@ -2863,7 +2863,7 @@ body
 {
    position: absolute;
    left: 1180px;
-   top: 50px;
+   top: 60px;
    width: 40px;
    height: 40px;
    text-align: center;
@@ -3113,7 +3113,7 @@ body
 {
    position: absolute;
    left: 444px;
-   top: -10px;
+   top: 0px;
    width: 377px;
    height: 173px;
    z-index: 26;

@@ -4134,7 +4134,7 @@ body
 {
    position: absolute;
    left: 20px;
-   top: 59px;
+   top: 69px;
    width: 70px;
    height: 32px;
    visibility: hidden;
@@ -4236,7 +4236,7 @@ body
 {
    position: absolute;
    left: 444px;
-   top: -10px;
+   top: 0px;
    width: 377px;
    height: 173px;
    z-index: 2;
@@ -4245,7 +4245,7 @@ body
 {
    position: absolute;
    left: 20px;
-   top: 59px;
+   top: 69px;
    width: 70px;
    height: 32px;
    z-index: 0;
@@ -5322,7 +5322,7 @@ body
 {
    position: absolute;
    left: 1080px;
-   top: 50px;
+   top: 60px;
    width: 47px;
    height: 40px;
    text-align: center;
@@ -5332,7 +5332,7 @@ body
 {
    position: absolute;
    left: 1180px;
-   top: 50px;
+   top: 60px;
    width: 40px;
    height: 40px;
    text-align: center;
@@ -5414,9 +5414,9 @@ body
    position: absolute;
    text-align: left;
    left: 0px;
-   top: 30px;
+   top: 20px;
    width: 1265px;
-   height: 150px;
+   height: 173px;
    z-index: 52;
 }
 #wb_Shape20
@@ -6934,8 +6934,8 @@ body
    top: 620px;
    width: 121px;
    height: 140px;
-   visibility: visible;
-   display: inline;
+   visibility: hidden;
+   display: none;
    margin: 0;
    padding: 0;
 }
@@ -10415,7 +10415,7 @@ body
 }
 #wb_IconFont18
 {
-   left: 325px;
+   left: 326px;
    top: 67px;
    width: 15px;
    height: 27px;
@@ -10459,7 +10459,7 @@ body
 }
 #wb_Text71
 {
-   left: 220px;
+   left: 221px;
    top: 46px;
    width: 146px;
    height: 10px;
@@ -10473,7 +10473,7 @@ body
 }
 #wb_Text72
 {
-   left: 219px;
+   left: 220px;
    top: 27px;
    width: 146px;
    height: 19px;
