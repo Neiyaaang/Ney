@@ -907,6 +907,20 @@ body
    left: 50% !important;
    margin-left: -562px;
 }
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
 #wb_Icon1
 {
    position: absolute;
@@ -963,7 +977,7 @@ body
    top: 19px;
    width: 377px;
    height: 173px;
-   z-index: 23;
+   z-index: 24;
 }
 #wb_Icon7
 {
@@ -990,7 +1004,7 @@ body
    left: 70px;
    top: 40px;
    width: 126px;
-   height: 120px;
+   height: 160px;
    z-index: 20;
 }
 #wb_Text4
@@ -1010,7 +1024,17 @@ body
    top: 40px;
    width: 292px;
    height: 128px;
+   visibility: hidden;
    z-index: 19;
+}
+#wb_Text6
+{
+   position: absolute;
+   left: 226px;
+   top: 24px;
+   width: 292px;
+   height: 160px;
+   z-index: 21;
 }
 #wb_Text1
 {
@@ -1020,7 +1044,7 @@ body
    width: 1265px;
    height: 19px;
    text-align: center;
-   z-index: 21;
+   z-index: 22;
 }
 #wb_Text2
 {
@@ -1099,7 +1123,7 @@ body
    top: 192px;
    width: 1265px;
    height: 508px;
-   z-index: 24;
+   z-index: 25;
 }
 #Layer2
 {
@@ -1109,7 +1133,7 @@ body
    top: 700px;
    width: 1265px;
    height: 280px;
-   z-index: 25;
+   z-index: 26;
 }
 #wb_Icon2
 {
@@ -1139,7 +1163,7 @@ body
    top: 19px;
    width: 1265px;
    height: 173px;
-   z-index: 22;
+   z-index: 23;
 }
 #wb_Icon3
 {
@@ -1159,7 +1183,7 @@ body
    top: 700px;
    width: 1265px;
    height: 280px;
-   z-index: 26;
+   z-index: 27;
 }
 #wb_Text25
 {
@@ -1667,8 +1691,8 @@ body
    top: 27px;
    width: 292px;
    height: 160px;
-   visibility: visible;
-   display: inline;
+   visibility: hidden;
+   display: none;
 }
 #wb_Text5
 {
@@ -1720,6 +1744,20 @@ body
 #wb_CssMenu2 li
 {
    padding-bottom: 4px !important;
+}
+#wb_Text6
+{
+   left: 148px;
+   top: 30px;
+   width: 292px;
+   height: 160px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Text6
+{
+   margin: 0;
+   padding: 0;
 }
 }
 @media only screen and (max-width: 699px)
@@ -2271,5 +2309,19 @@ body
 #wb_CssMenu2 li
 {
    padding-bottom: 4px !important;
+}
+#wb_Text6
+{
+   left: 95px;
+   top: 11px;
+   width: 175px;
+   height: 128px;
+   visibility: hidden;
+   display: none;
+}
+#wb_Text6
+{
+   margin: 0;
+   padding: 0;
 }
 }

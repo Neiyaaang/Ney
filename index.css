@@ -5414,7 +5414,7 @@ body
    position: absolute;
    text-align: left;
    left: 0px;
-   top: 20px;
+   top: 34px;
    width: 1265px;
    height: 173px;
    z-index: 52;
@@ -9193,10 +9193,10 @@ body
 }
 #wb_Text3
 {
-   left: 107px;
-   top: 7px;
-   width: 192px;
-   height: 13px;
+   left: 65px;
+   top: 5px;
+   width: 225px;
+   height: 15px;
    visibility: visible;
    display: inline;
 }
